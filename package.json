@@ -33,7 +33,7 @@
     "ethjs-unit": "npm:ethjs-unit-ledgerium",
     "keythereum": "^1.0.4",
     "mocha": "6.1.4",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "promise": "7.1.1",
     "quorum-js": "npm:quorum-xlg-js",
     "solc": "^0.4.25",
